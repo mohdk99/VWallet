@@ -22,7 +22,7 @@ class _profilePageState extends State<profilePage> {
     return Scaffold(
       body: Center(
         child: Text(
-          "Page 4",
+          "User Profile Section",
           style: TextStyle(
             color: Colors.black,
           ),

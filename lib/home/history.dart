@@ -22,7 +22,7 @@ class _historyPageState extends State<historyPage> {
     return Scaffold(
       body: Center(
         child: Text(
-          "Page 2",
+          "History Section",
           style: TextStyle(
             color: Colors.black,
           ),
